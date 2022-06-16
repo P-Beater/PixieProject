@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Prince Em/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_login.xml" value="0.29438405797101447" />
+        <entry key="..\:/Users/Prince Em/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_main.xml" value="0.29438405797101447" />
+        <entry key="..\:/Users/Prince Em/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_mall.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Prince Em/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_register.xml" value="0.29438405797101447" />
+        <entry key="..\:/Users/Prince Em/AndroidStudioProjects/Pixie/app/src/main/res/layout/popup.xml" value="0.33" />
+        <entry key="..\:/Users/chest/AndroidStudioProjects/Pixie/app/src/main/res/drawable/button.xml" value="0.196" />
+        <entry key="..\:/Users/chest/AndroidStudioProjects/Pixie/app/src/main/res/drawable/button2.xml" value="0.196" />
+        <entry key="..\:/Users/chest/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/chest/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/chest/AndroidStudioProjects/Pixie/app/src/main/res/layout/activity_register.xml" value="0.17395833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.18802083333333333" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

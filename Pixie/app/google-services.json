@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "555936450698",
+    "project_id": "pixie-project-51d21",
+    "storage_bucket": "pixie-project-51d21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555936450698:android:c66705b1308f9364754573",
+        "android_client_info": {
+          "package_name": "com.example.pixie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555936450698-acb3ikv0cgpa96km61s1b5v997iq6s53.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pixie",
+            "certificate_hash": "3b7855dc226a9146a08e93a9ea3a7ca1a0c4377f"
+          }
+        },
+        {
+          "client_id": "555936450698-9oniojv2hbqodblot1mqlpmefu2m2f48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhHG-TOAkmc2XSktp3iXRoj4UYQW9ZLWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555936450698-9oniojv2hbqodblot1mqlpmefu2m2f48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
